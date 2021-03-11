@@ -1,0 +1,9 @@
+{
+  // Set the default
+  "editor.formatOnSave": false,
+  // Enable per-language
+  "editor.codeActionsOnSave": {
+    // For ESLint
+    "source.fixAll.eslint": true
+  }
+}
